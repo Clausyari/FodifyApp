@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Fodify</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="user">User</string>
+    <string name="social_login">Social Login</string>
+    <string name="iniciointroduccion">¿Qué quieres comer hoy?</string>
+    <string name="desayuno">Desayuno</string>
+    <string name="a_la_carta">A la carta</string>
+    <string name="snack">Snack</string>
+    <string name="ubicacion">Conoce todas nuestras ubicaciones</string>
+</resources>
